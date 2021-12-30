@@ -5,7 +5,7 @@
 ### **Clone From:**
 
 ```
-git clone https://github.com/ibnshayed/Tailwindcss-Starter-Pack-With-Vite.git
+git clone https://github.com/masud563/tailwind-starter-pack.git
 ```
 
 ### **TailwindCss Build For Development:**
