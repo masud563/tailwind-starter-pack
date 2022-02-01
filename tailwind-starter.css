@@ -1,5 +1,5 @@
 .btn {
-  @apply bg-green-400 rounded px-2 py-1  font-bold shadow-md ;
+  @apply bg-green-400 text-white rounded px-2 py-1  font-bold shadow-md ;
 }
 .btn-primary {
   @apply bg-blue-600;
@@ -9,6 +9,9 @@
 }
 .btn-success {
   @apply bg-green-600;
+}
+.btn-warning {
+  @apply bg-yellow-400;
 }
 .btn-danger {
   @apply bg-red-600;
@@ -23,7 +26,7 @@
   @apply bg-black;
 }
 .badge{
-  @apply rounded bg-blue-600 text-white font-bold px-2 mx-3;
+  @apply rounded-full bg-blue-600 text-white font-bold px-2 mx-3;
 }
 .badge-primary {
   @apply bg-blue-600;
@@ -33,6 +36,9 @@
 }
 .badge-success {
   @apply bg-green-600;
+}
+.badge-warning {
+  @apply bg-yellow-400;
 }
 .badge-danger {
   @apply bg-red-600;
